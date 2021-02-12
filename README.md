@@ -1,7 +1,6 @@
 # chatApp
 
-A new Flutter project.
-
+Built this application to learn firebase service provided by google for database and authentication
 ## Getting Started
 
 This project is a starting point for a Flutter application.
